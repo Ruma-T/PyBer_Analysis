@@ -4,7 +4,7 @@
 A ride sharing company wants to analyze their data for different city types to improve their business. We have to create and merge data and perform calculations based on different csv files of ride sharing data and then make multiple line chart to tell visual stories to get information quickly and detect patterns, correlations, and outliers from thousands of data.
 
 
-#Results: 
+##Results: 
 
 ![png_ridepng1](https://github.com/Ruma-T/PyBer_Analysis/blob/main/Resources/ridepng1.PNG)
 
@@ -50,7 +50,7 @@ A ride sharing company wants to analyze their data for different city types to i
 ![png_PyBer_fare_summary](https://github.com/Ruma-T/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
-#Summary:
+##Summary:
 
 •	This analysis shows that there is a significant difference in number of drivers, rides, and total fares in three city types.
 
@@ -60,7 +60,7 @@ A ride sharing company wants to analyze their data for different city types to i
 
 
 
-Three suggestions: 
+###Three suggestions: 
 1.	Total number of drivers is higher than total number of rides in Urban cities, which shows excess number of drivers than required, some of the drivers are not even getting rides as the ride per driver ratio is 0.7. Either need to increase the rides or decrease number of drivers to improve the business.
 2.	Ride per driver ratio is 1.6 in Rural cities, needs to attract more drivers to get more business as average fare per ride and average fare per driver is highest in Rural cities.Further analysis could be done considering the factors those will encourage more Rural drivers to join. 
 3. As Rural cities earning is higher per ride, needs to improve total rides to get more business. Further analysis could be done considering the factors those will encourage more people to ride. 
